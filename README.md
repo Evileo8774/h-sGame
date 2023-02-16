@@ -1,2 +1,4 @@
-# h-sGame
-linked to my hackAndSlash repo, but this one will be a version without php and sql
+# hackAndSlash Game
+This repo is an extension of my hackAndSlash one.
+I made it in case a computer I work on hasn't apache / mysql / php installed on it.
+Basically, there will only be game files, not accounts.
